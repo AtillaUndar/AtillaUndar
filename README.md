@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AtillaUndar
-- 👀 I’m interested in coding and robotics, machine learning
+- 👀 I’m mostly interested in machine learning, coding and robotics
 - 🌱 I’m currently a student in Bilkent University as a freshman
 - 📫 You can reach me on undaratilla@gmail.com
 
